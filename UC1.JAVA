@@ -3,4 +3,4 @@ public class uc1 {
     public static void main(string[] args){
         system.out.println(x:"welcome to OOPS Banner App");
     }
-}
+} 
